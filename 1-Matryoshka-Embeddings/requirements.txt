@@ -1,0 +1,9 @@
+# Vector search
+qdrant-client==1.18.0
+
+# Embeddings
+voyageai==0.3.2
+
+# Utils
+numpy==2.2.3
+python-dotenv==1.1.0
